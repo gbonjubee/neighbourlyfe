@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7445111b-eb36-45fe-94b4-304a3373123f/AppServices/subscriptions/7445111b-eb36-45fe-94b4-304a3373123f/resourceGroups/gbee_project5_rg/providers/Microsoft.Web/sites/neighbourly",
+    "appService.deploySubpath": "."
+}
